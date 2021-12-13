@@ -31,5 +31,7 @@ raw/public/Pre-Processing/tl_2020_17_place.shp,tl_2020_17_place,.shp,US Census B
 raw/public/SVI/SVI2018_ILLINOIS_tract.shp,SVI2018_ILLINOIS_tract,.shp,Original Study; CDC,SVI2018_ILLINOIS.xml,included
 raw/public/Chicago_Network.graphml,Chicago_Network,.graphml,Original Study; OSMNX; Open Street Map,,included
 ,,,,,
+raw/public/Pop-data-buffered/ACSDT5Y2018.B01001_data_with_overlays_2021-10-28T145639.csv,census_Illinois,.csv, ACS2018
+raw/public/Pop-data-buffered/cb_2018_17_tract_500k.shp,geometry_Illinois,.shp, United States Census Bureau
 ,,,,,
 * Original Study: provided in the original paper's github repository,,,,,
